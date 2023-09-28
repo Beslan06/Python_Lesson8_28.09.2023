@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Admin",
+        "user_id": "0000001234",
+        "access_level": "6",
+        "user_hash": 8187777462627914221
+    },
+    {
+        "name": "Server",
+        "user_id": "0000000002",
+        "access_level": "7",
+        "user_hash": -6980187650198973315
+    },
+    {
+        "name": "Beslan",
+        "user_id": "0000000001",
+        "access_level": "7",
+        "user_hash": 5292887859269212349
+    },
+    {
+        "name": "Admin",
+        "user_id": "0000000003",
+        "access_level": "5",
+        "user_hash": -4617738699558353528
+    },
+    {
+        "name": "",
+        "user_id": "0000000000",
+        "access_level": "",
+        "user_hash": -6875753590079862026
+    }
+]
